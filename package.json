@@ -1,0 +1,18 @@
+{
+  "name": "ajs-deploy",
+  "version": "0.0.3",
+  "description": "test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldez/ajsdeploy.git"
+  },
+  "author": "ldez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldez/ajsdeploy/issues"
+  },
+  "homepage": "https://github.com/ldez/ajsdeploy#readme"
+}
