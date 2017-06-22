@@ -34,6 +34,6 @@ deploy:
   skip_cleanup: true
   file_glob: true
   on:
-    repo: ldez/ajsdeploy.js
+    repo: ldez/ajsdeploy
     tags: true
     node: node
