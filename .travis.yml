@@ -29,7 +29,7 @@ before_deploy:
 deploy:
 - provider: releases
   api_key: ${GITHUB_TOKEN}
-  file: /bin/asciidoctor.js.dist.*
+  file: bin/asciidoctor.js.dist.*
   skip_cleanup: true
   file_glob: true
   on:
